@@ -111,6 +111,10 @@
 
 ## 🚀 Démarrage rapide
 
+## 📸 Aperçu
+
+![Aperçu de CV Forge Pro](docs/Capture%20d%E2%80%99%C3%A9cran_8-8-2026_123540_.jpeg)
+
 ### 1. Cloner le repository
 ```bash
 git clone https://github.com/aurelien784/CV-Forge.git
