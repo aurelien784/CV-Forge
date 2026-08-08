@@ -4,9 +4,9 @@
 
 ![Version](https://img.shields.io/badge/version-2.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Stars](https://img.shields.io/github/stars/username/cv-forge-pro)
-![Forks](https://img.shields.io/github/forks/username/cv-forge-pro)
-[![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://username.github.io/cv-forge-pro)
+![Stars](https://img.shields.io/github/stars/aurelien784/CV-Forge)
+![Forks](https://img.shields.io/github/forks/aurelien784/CV-Forge)
+[![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://aurelien784.github.io/CV-Forge)
 
 ---
 
@@ -109,13 +109,16 @@
 
 ---
 
-## 🚀 Démarrage rapide
-
 ## 📸 Aperçu
 
-![Aperçu de CV Forge Pro](Capture d’écran 2026-08-08 133401.png)
+![Aperçu de CV Forge Pro](docs/Capture%20d%E2%80%99%C3%A9cran%202026-08-08%20133401.png)
+
+---
+
+## 🚀 Démarrage rapide
 
 ### 1. Cloner le repository
+
 ```bash
 git clone https://github.com/aurelien784/CV-Forge.git
-cd cv-forge-pro
+cd CV-Forge
