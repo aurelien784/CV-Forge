@@ -113,5 +113,5 @@
 
 ### 1. Cloner le repository
 ```bash
-git clone https://github.com/username/cv-forge-pro.git
+git clone https://github.com/aurelien784/CV-Forge.git
 cd cv-forge-pro
