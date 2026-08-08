@@ -10,6 +10,14 @@
 
 ---
 
+## 📸 Aperçu de l'application
+
+Voici un aperçu de l'interface de **CV Forge Pro** :
+
+![Aperçu de CV Forge Pro](docs/Capture%20d%E2%80%99%C3%A9cran%202026-08-08%20133401.png)
+
+---
+
 ## ✨ Fonctionnalités
 
 | Fonctionnalité | Description |
@@ -106,12 +114,6 @@
 | 🇩🇪 | Deutsch |
 | 🇮🇹 | Italiano |
 | 🇵🇹 | Português |
-
----
-
-## 📸 Aperçu
-
-![Aperçu de CV Forge Pro](docs/Capture%20d%E2%80%99%C3%A9cran%202026-08-08%20133401.png)
 
 ---
 
