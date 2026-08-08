@@ -113,7 +113,7 @@
 
 ## 📸 Aperçu
 
-![Aperçu de CV Forge Pro](docs/Capture d’écran 2026-08-08 133401.png)
+![Aperçu de CV Forge Pro](docs/Capture%20d%E2%80%99%C3%A9cran_8-8-2026_123540_.jpeg)
 
 ### 1. Cloner le repository
 ```bash
