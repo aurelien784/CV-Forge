@@ -14,7 +14,7 @@
 
 Voici un aperçu de l'interface de **CV Forge Pro** :
 
-![Aperçu de CV Forge Pro](docs/Capture%20d%E2%80%99%C3%A9cran%202026-08-08%20133401.png)
+![Aperçu de CV Forge Pro](docs/Capture d’écran 2026-08-08 133401.png)
 
 ---
 
