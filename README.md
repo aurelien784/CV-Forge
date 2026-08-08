@@ -14,8 +14,7 @@
 
 Voici un aperçu de l'interface de **CV Forge Pro** :
 
-docs/cv-forge-preview.png
-
+cv-forge-preview.png
 ---
 
 ## ✨ Fonctionnalités
